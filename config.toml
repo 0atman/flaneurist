@@ -1,0 +1,38 @@
+baseurl = "/"
+title = "Flâneurist"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "namtao" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[[menu.main]]
+       name = "About"
+       weight = 10
+       identifier = "about"
+       url = "/about"
+[[menu.main]]
+      name = "London"
+      weight = 20
+      identifier = "london"
+      url = "/categories/london/"
+[Author]
+    name = "Prof. Oatman"
+    bio = "Oatman's true identity is unknown. Maybe he is a successful writer. Nobody knows."
+    avatar = "img/tophat.png"
+
+
+[Params]
+    subtitle = "Victorian sketches of modern London" # Subtitle of your site
+    description = " John Doe's Personal blog about everything" # Description of your site
+    opengraph = true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
