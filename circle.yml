@@ -10,6 +10,8 @@ deployment:
     branch: master
     commands:
       - hugo -d docs
+      - git config --global user.email "circleci@example.com"
+      - git config --global user.name "Circle CI"
       - git add -A .
       - git commit --message "Generated site on $(date)"
       - git push origin master
