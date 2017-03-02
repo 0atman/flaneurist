@@ -13,6 +13,6 @@ deployment:
       - git config --global user.email "circleci@example.com"
       - git config --global user.name "Circle CI"
       - git pull
-      - git add --allow-empty -A .
-      - git commit --message "Generated site on $(date) [skip ci]"
+      - git add -A .
+      - git commit --allow-empty --message "Generated site on $(date) [skip ci]"
       - git push origin master
