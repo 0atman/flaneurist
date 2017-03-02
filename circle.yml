@@ -9,7 +9,7 @@ deployment:
   production:
     branch: master
     commands:
-      - hugo -d docs
+      - hugo -v --enableGitInfo -d docs
       - git config --global user.email "circleci@example.com"
       - git config --global user.name "Circle CI"
       - git add -A .
