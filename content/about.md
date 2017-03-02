@@ -5,4 +5,4 @@ title: "About"
 
 Whatley, are you getting this all down? Quiet man, I'd hate for anything to be missed, and don't mumble. 
 
-The preface should be entitled `How I Did It, Without Doing Anything Really`. That'll catch them!
+The preface should be entitled _*How I Did It, Without Doing Anything Really*_. That'll catch them!
