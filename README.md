@@ -1,6 +1,5 @@
-# flaneurist
-Victorian sketches of modern london
+**FLÂNEURIST** details Victorian sketches of modern London, available here: http://flaneurist.oat.sh
 
-# Building
+# Contributing
 
-https://github.com/spf13/hugo/releases/download/v0.19/hugo_0.19_Linux-64bit.tar.gz
+Fork me, baby! Hit me with a PR with a new tale of tomfoolery under `post/`.
