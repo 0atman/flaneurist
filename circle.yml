@@ -2,6 +2,7 @@ machine:
   pre:
     - curl -L -o hugo.tar.gz https://github.com/spf13/hugo/releases/download/v0.19/hugo_0.19_Linux-64bit.tar.gz
     - tar -zxf hugo.tar.gz
+    - cp hugo_0.19_linux_amd64/hugo_0.19_linux_amd64 hugo
     - chmod +x hugo_0.19_Linux-64bit
 
 deployment:
