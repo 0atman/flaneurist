@@ -4,11 +4,15 @@ machine:
     - tar -zxf hugo.tar.gz
     - cp hugo_0.19_linux_amd64/hugo_0.19_linux_amd64 hugo
     - chmod +x hugo
+    - pwd
+    - ls
 
 deployment:
   production:
     branch: master
     commands:
+      - pwd
+      - ls
       - ./hugo -d docs
       - git add -A .
       - git commit --message "Generated site on $(date)"
