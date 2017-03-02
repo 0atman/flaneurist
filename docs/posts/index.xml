@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>London on Flâneurist</title>
-    <link>/categories/london/index.xml</link>
-    <description>Recent content in London on Flâneurist</description>
+    <title>Posts on Flâneurist</title>
+    <link>/posts/index.xml</link>
+    <description>Recent content in Posts on Flâneurist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/categories/london/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Dec 2016 16:35:08 +0800</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Yule Birds</title>

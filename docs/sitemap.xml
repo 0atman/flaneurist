@@ -7,8 +7,8 @@
   </url>
   
   <url>
-    <loc>/xmas-market/</loc>
-    <lastmod>2017-03-02T20:58:47+08:00</lastmod>
+    <loc>/posts/xmas-market/</loc>
+    <lastmod>2017-03-02T21:06:54+08:00</lastmod>
   </url>
   
   <url>
@@ -18,7 +18,7 @@
   
   <url>
     <loc>/tags/feast/</loc>
-    <lastmod>2017-03-02T20:58:47+08:00</lastmod>
+    <lastmod>2017-03-02T21:06:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -30,13 +30,19 @@
   
   <url>
     <loc>/tags/food/</loc>
-    <lastmod>2017-03-02T20:58:47+08:00</lastmod>
+    <lastmod>2017-03-02T21:06:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/london/</loc>
-    <lastmod>2017-03-02T20:58:47+08:00</lastmod>
+    <lastmod>2017-03-02T21:06:54+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2017-03-02T21:06:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,7 +53,7 @@
   
   <url>
     <loc>/tags/xmas/</loc>
-    <lastmod>2017-03-02T20:58:47+08:00</lastmod>
+    <lastmod>2017-03-02T21:06:54+08:00</lastmod>
     <priority>0</priority>
   </url>
   
