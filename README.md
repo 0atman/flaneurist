@@ -2,4 +2,4 @@
 
 # Contributing
 
-Fork me, baby! Hit me with a PR with a new tale of tomfoolery under `post/`.
+Fork me, baby! Hit me with a PR with a new tale of tomfoolery under `content/post/`.
