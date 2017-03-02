@@ -12,6 +12,7 @@ deployment:
       - hugo -v --enableGitInfo -d docs
       - git config --global user.email "circleci@example.com"
       - git config --global user.name "Circle CI"
+      - git pull
       - git add -A .
       - git commit --message "Generated site on $(date) [skip ci]"
       - git push origin master
