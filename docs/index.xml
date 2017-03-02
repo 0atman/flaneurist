@@ -22,6 +22,16 @@
     </item>
     
     <item>
+      <title>test</title>
+      <link>/post/test/</link>
+      <pubDate>Wed, 01 Mar 2017 16:35:08 +0800</pubDate>
+      
+      <guid>/post/test/</guid>
+      <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Yule Birds</title>
       <link>/posts/xmas-market/</link>
       <pubDate>Tue, 20 Dec 2016 16:35:08 +0800</pubDate>
