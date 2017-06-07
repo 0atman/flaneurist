@@ -14,7 +14,7 @@ I emerged from the gymnasium into the cool night air. I had just completed anoth
 
 Having attained the pavement I became swept up along with the rest of the commutors flowing to or from the station. I was bound away from this hive of activity, towards my favourite part of town: the borough of Southwark.
 
-> It's pronounced Suh-thuk, by the way, and damn and blast [the dictionary] for codifying such nonsense.
+> It's pronounced Suh-thuk, by the way, and damn and blast [Samuel Johnson](https://en.wikipedia.org/wiki/Dictionary#English_Dictionaries_in_Britain) for codifying such nonsense.
 
 I turned off Tooley Street and wandered past Borough Market, unbustled by the hurriers and worriers. There were yet many people here, it's just that these people were stationary, with refreshments in hand, and therefore much easier to navigate around.
 
@@ -39,4 +39,8 @@ Much to my surprised, I found it raining upon my exit from the bar. It was the l
 ![Peabody Trust. (c) Stephen Craven (CC BY-SA 2.0)](https://i.imgur.com/i2jpwb7.jpg)
 
 All too soon, as is the case with underground travel, I found myself back in my own neighborhood.
-_"It's a mixed blessing"_, I thoguht to myself as I walked the few well-trod streets back to my rooms. _"The Underground gets one to the destination all-right, and quickly, but it does nothing for the *journey*"_.
+_"It's a mixed blessing"_,
+
+I thought to myself as I walked the few well-trodden streets back to my rooms,
+
+_"The Underground gets one to one's destination all right, and expediently, but it does nothing for the *journey*"_.
