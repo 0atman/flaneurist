@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>London on Flâneurist</title>
-    <link>/categories/london/index.xml</link>
-    <description>Recent content in London on Flâneurist</description>
+    <title>Music on Flâneurist</title>
+    <link>/tags/music/index.xml</link>
+    <description>Recent content in Music on Flâneurist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/categories/london/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>All About Dat Brass</title>
@@ -46,18 +46,6 @@
 
 &lt;p&gt;All too soon, as is the case with underground travel, I found myself back in my own neighborhood.
 &lt;em&gt;&amp;ldquo;It&amp;rsquo;s a mixed blessing&amp;rdquo;&lt;/em&gt;, I thoguht to myself as I walked the few well-trod streets back to my rooms. &lt;em&gt;&amp;ldquo;The Underground gets one to the destination all-right, and quickly, but it does nothing for the &lt;em&gt;journey&lt;/em&gt;&amp;ldquo;&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Yule Birds</title>
-      <link>/post/xmas-market/</link>
-      <pubDate>Tue, 20 Dec 2016 16:35:08 +0800</pubDate>
-      
-      <guid>/post/xmas-market/</guid>
-      <description>&lt;p&gt;Imagine, dear reader, your good author waking up not a tenday away from midwinter, and realising he had not a single dressed bird in the house!&lt;/p&gt;
-
-&lt;p&gt;Fear not, let me recount my rise from this low place with a tale that ends in a feast:&lt;/p&gt;
 </description>
     </item>
     
