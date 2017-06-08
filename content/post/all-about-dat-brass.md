@@ -16,7 +16,7 @@ Having attained the pavement I became swept up along with the rest of the commut
 
 > It's pronounced Suh-thuk, by the way, and damn and blast [Samuel Johnson](https://en.wikipedia.org/wiki/Dictionary#English_Dictionaries_in_Britain) for codifying such nonsense.
 
-I turned off Tooley Street and wandered past Borough Market, unbustled by the hurriers and worriers. There were yet many people here, it's just that these people were stationary, with refreshments in hand, and therefore much easier to navigate around.
+I turned off Tooley Street and wandered past Borough Market, unbustled by the hurriers and worriers. There were still many people here, but these people were stationary, with refreshments in hand, and therefore much easier to navigate around.
 
 I found the market itself, and indeed the whole of Southwark Street, closed tonight, but we Londoners are used to closed roads here and there - whole streets were dug up to install the Underground Railway after all - so we don't bat an eye. Indeed, it was my great fortune that I diverted off my normal path (I must make a note to deviate more!), and on to Union Street.
 
@@ -38,9 +38,4 @@ Much to my surprised, I found it raining upon my exit from the bar. It was the l
 
 ![Peabody Trust. (c) Stephen Craven (CC BY-SA 2.0)](https://i.imgur.com/i2jpwb7.jpg)
 
-All too soon, as is the case with underground travel, I found myself back in my own neighborhood.
-_"It's a mixed blessing"_,
-
-I thought to myself as I walked the few well-trodden streets back to my rooms,
-
-_"The Underground gets one to one's destination all right, and expediently, but it does nothing for the *journey*"_.
+All too soon, as is the case with underground travel, I found myself back in my own neighborhood. _"It's a mixed blessing"_, I thought to myself as I walked the few well-trodden streets back to my rooms, _"The Underground gets one to one's destination all right, and expediently, but it does nothing for the *journey*"_.
