@@ -12,7 +12,7 @@ tags:
 ---
 I emerged from the gymnasium into the cool night air. I had just completed another evening's instruction in the [Eastern martial arts](https://www.centralwingchun.london/), and was feeling invigorated, it being a weekly ritual before my soujourn from London Bridge to my rooms in Vauxhaul.
 
-Having attained the pavement I became swept up along with the rest of the commutors flowing to or from the station. I was bound away from this hive of activity, towards my favourite part of town: the borough of Southwark.
+Having attained the pavement I became swept up along with the rest of the commutors flowing to and from the station. I was bound away from this hive of activity, towards my favourite part of town: the borough of Southwark.
 
 > It's pronounced Suh-thuk, by the way, and damn and blast [Samuel Johnson](https://en.wikipedia.org/wiki/Dictionary#English_Dictionaries_in_Britain) for codifying such nonsense.
 
