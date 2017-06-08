@@ -3,7 +3,7 @@ title = "Flâneurist"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "Mainroad-master"
-disqusShortname = "namtao" # Enable comments by entering your Disqus shortname
+disqusShortname = "oatman" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [[menu.main]]
