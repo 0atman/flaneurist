@@ -28,7 +28,7 @@ Let me set the scene, in the hemispherical venue were benches, a bar at one side
 
 ![Nice Horn](https://i.imgur.com/V6V3mwH.jpg)
 
-The gentlemen proceded to smash out some delightful covers of Mark Ronson's _Valerie_, My Lord Mix-a-Lot's _Baby Got Back_, and _The Bad Touch_ by The Offspring, amoungst other expertly selected favourites. Sadly, I arrived at the end of their show, at just a hair before 9pm. I understand they had been their from 7pm.
+The gentlemen proceded to smash out some delightful covers of Mark Ronson's _Valerie_, My Lord Mix-a-Lot's _Baby Got Back_, and _The Bad Touch_ by Bloodhound Gang, amoungst other expertly selected favourites. Sadly, I arrived at the end of their show, at just a hair before 9pm. I understand they had been their from 7pm.
 
 It was over all too soon, the band finished their final encore (many of which being much demmanded by the delighted audience), I finished my drink and slipped from my seat back out into the night.
 
