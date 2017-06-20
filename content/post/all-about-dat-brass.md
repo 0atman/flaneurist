@@ -14,7 +14,7 @@ I emerged from the gymnasium into the cool night air. I had just completed anoth
 
 Having attained the pavement I became swept up along with the rest of the commutors flowing to and from the station. I was bound away from this hive of activity, towards my favourite part of town: the borough of Southwark.
 
-> It's pronounced Suh-thuk, by the way, and damn and blast [Samuel Johnson](https://en.wikipedia.org/wiki/Dictionary#English_Dictionaries_in_Britain) for codifying such nonsense.
+> It's pronounced _Suh-thuk_, by the way, and damn and blast [Samuel Johnson](https://en.wikipedia.org/wiki/Dictionary#English_Dictionaries_in_Britain) for codifying such nonsense.
 
 I turned off Tooley Street and wandered past [Borough Market](http://boroughmarket.org.uk/), unbustled by the hurriers and worriers. There were still many people here, but these people were stationary, with refreshments in hand, and therefore much easier to navigate around.
 
